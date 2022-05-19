@@ -181,7 +181,7 @@
       title = "Mylo's blog"
       # subtitle shown in home page
       # 主页显示的网站副标题
-      subtitle = "We'll carry on"
+      subtitle = " "
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = false
