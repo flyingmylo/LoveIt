@@ -23,7 +23,7 @@ header {
   }
 
   &:hover {
-    @include box-shadow(0 0 1.5rem 0 rgba(0, 0, 0, .1));
+    // @include box-shadow(0 0 1.5rem 0 rgba(0, 0, 0, .1));
   }
 }
 
@@ -192,10 +192,10 @@ header {
 
       a.active {
         font-weight: 900;
-        color: $header-hover-color;
+        color: forestgreen;
 
         [theme=dark] & {
-          color: $header-hover-color-dark;
+          color: forestgreen;
         }
       }
     }
